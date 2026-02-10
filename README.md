@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* dTelecom STT - Real-time speech-to-text for AI agents. 99+ languages, $0.005/min, usage-based billing. [Website](https://x402stt.dtelecom.org) [Github](https://github.com/dTelecom/stt-x402-proxy)
 
 ---
 
